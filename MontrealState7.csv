@@ -1,0 +1,1009 @@
+Address,City,Numbe_Bedrooms,Number_bathrooms,Year Built,Total_Rooms,Lot Area,Price
+"5450, Avenue des Sapins",Montréal (Rosemont/La Petite-Patrie),6,4,1955,10,5155,1649000
+"3605, Avenue Northcliffe",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),5,4,1921,14,2992,1795000
+"433, Avenue Lazard",Mont-Royal,5,6,1913,23,10640,3999900
+"36, Rue de Shediac",Kirkland,5,3,1976,10,6000,849000
+"251, Rue Saint-Raphaël",Montréal (L'Île-Bizard/Sainte-Geneviève),5,4,1992,13,11740,1350000
+"92, Rue Audubon",Dollard-Des Ormeaux,4,2,1984,9,7321,719000
+"6585, boulevard Lavoisier",Montréal (Saint-Léonard),3,3,1999,11,9338,959000
+"2251, Rue Charles-Darwin",Montréal (Saint-Laurent),3,3,2000,11,2491,1195000
+"92, Rue Audubon",Dollard-Des Ormeaux,4,2,1984,9,7321,719000
+"3125, Le Blvd",Montréal ,4,3,1960,7,2145,1495000
+"1820, Rue Filion",Montréal (Saint-Laurent),6,2,1952,9,4750,775000
+"1095, Rue Deguire",Montréal (Saint-Laurent),3,2,1951,7,4246,489000
+"3605, Avenue Northcliffe",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),5,4,1921,14,2992,1795000
+"200, Rue Saint-Raphaël",Montréal (L'Île-Bizard/Sainte-Geneviève),6,4,1994,20,14233,1498000
+"6900, Avenue Jean-Bourdon",Montréal (Ahuntsic-Cartierville),4,3,1966,8,5909,880000
+"874, Rue Bertrand",Montréal (Saint-Laurent),4,2,1954,11,6370,749000
+"215, Chemin Edgehill",Westmount,6,6,1946,20,6645,4500000
+"17, Avenue Severn",Westmount,2,3,1928,10,3851,2150000
+"15, Avenue Oakland",Westmount,4,3,1956,10,9435,6995000
+"68, Chemin Belvedere",Westmount,5,5,1926,12,17540,4498000
+"36, Chemin Edgehill",Westmount,5,5,1929,20,5309,3998000
+"381, Avenue Claremont",Westmount,7,4,1895,12,2073,1599000
+"28, Avenue Burton",Westmount,3,1,1894,8,1981,1149000
+"3186, boulevard The Boulevard",Westmount,6,6,1911,22,5063,5995000
+"627, Avenue Lansdowne",Westmount,5,4,1926,8,3450,1995000
+"8, Avenue Forden",Westmount,9,7,1890,20,12785,11750000
+"355, Avenue Olivier",Westmount,5,4,1897,17,3360,2250000
+"5, Chemin Belfrage",Westmount,4,4,1925,14,2525,1790000
+"4488, Rue Sherbrooke Ouest",Westmount,5,3,1900,15,2612,1350000
+"3712, boulevard The Boulevard",Westmount,6,5,1939,13,8766,6900000
+"657, Avenue Lansdowne",Westmount,5,4,1924,10,3569,1875000
+"380, Avenue Lansdowne",Westmount,4,2,1910,11,3724,1925000
+"4306, Avenue Montrose",Westmount,4,4,1963,18,5479,3250000
+"4549, Rue Sherbrooke Ouest",Westmount,4,4,1900,9,3614,2150000
+"463, Rue Crescent",Saint-Lambert ,4,3,1916,11,3178,945000
+"465, Rue Upper Edison",Saint-Lambert ,3,3,1999,10,1951,699000
+280 Rue Saint-Georges,Saint-Lambert ,3,1,1942,8,4515,815000
+"427 - 429, Rue Logan",Saint-Lambert ,4,2,1924,9,8108,1369900
+"232, Rue Terroux",Saint-Lambert ,5,4,2004,11,5063,2288000
+"232, Avenue Putney",Saint-Lambert ,4,5,1959,24,10000,1495000
+"210, boulevard Queen",Saint-Lambert ,3,4,1950,20,6600,1845000
+"115, boulevard de Montrose",Saint-Lambert ,5,3,1956,25,18535,2300000
+"237, Avenue Edison",Saint-Lambert ,3,1,1896,8,5500,949000
+"305, Avenue Birch",Saint-Lambert ,5,4,1950,20,5766,1599000
+"20, Avenue de Lombardie",Saint-Lambert ,5,4,1875,11,59722,950000
+"97, Avenue de la Gironde",Saint-Lambert ,4,3,1980,15,10466,925000
+"165, Rue Green",Saint-Lambert ,4,3,1960,8,5005,965000
+"229, Avenue des Pyrénées",Saint-Lambert ,4,2,1968,9,6000,929000
+"262, Avenue Edison",Saint-Lambert ,5,3,1918,17,5726,1535000
+"238, Avenue Oak",Saint-Lambert ,3,3,1923,15,2842,939000
+"195, Chemin Tiffin",Saint-Lambert ,4,3,1974,13,6243,1075500
+"5122, boulevard Lalande",Montréal (Pierrefonds-Roxboro),4,3,2004,8,2893,599000
+"65, 4e Avenue Nord",Montréal (Pierrefonds-Roxboro),4,1,1952,8,5600,399000
+"4558, Rue Foster",Montréal (Pierrefonds-Roxboro),3,2,1987,11,4650,595000
+"4955, Rue Taillefer",Montréal (Pierrefonds-Roxboro),5,4,2008,11,6734,1280000
+"4920, Rue des Cageux",Montréal (Pierrefonds-Roxboro),3,3,1988,7,3261,489000
+"13251, Rue Sauriol",Montréal (Pierrefonds-Roxboro),4,2,1961,8,6020,499000
+"18459, Rue Meloche",Montréal (Pierrefonds-Roxboro),3,2,1992,10,2583,470000
+"13260, Rue Aragon",Montréal (Pierrefonds-Roxboro),4,2,1969,12,7541,549000
+"5100, Rue De Gaulle",Montréal (Pierrefonds-Roxboro),2,1,1947,5,3517,259000
+"5079, Rue Aquila",Montréal (Pierrefonds-Roxboro),4,2,1956,6,5950,479500
+"7027, Rue Apple Blossom",Montréal (Pierrefonds-Roxboro),4,2,1985,8,5632,599000
+"55, 6e Avenue",Montréal (Pierrefonds-Roxboro),6,4,2021,13,5000,1029000
+"36, Rue Deslauriers",Montréal (Pierrefonds-Roxboro),4,4,2021,11,5000,1120000
+"4955, Rue Saint-Gabriel",Montréal (Pierrefonds-Roxboro),4,3,1963,14,5425,709000
+"31, Rue de l'Île-Barwick",Montréal (Pierrefonds-Roxboro),5,6,1977,17,9667,1375000
+"11762, boulevard Riverdale",Montréal (Pierrefonds-Roxboro),3,2,2003,10,5198,539000
+"12703, Rue Senay",Montréal (Pierrefonds-Roxboro),4,3,1988,10,4412,699900
+"640, Chemin de la Rive-Boisée",Montréal (Pierrefonds-Roxboro),7,5,2005,20,24556,3590000
+"133, Avenue Duke-of-Kent",Pointe-Claire,6,5,2021,27,11850,1581765
+"169, Avenue Sunnyside",Pointe-Claire,4,2,1952,12,6300,629000
+"97, Avenue Hastings",Pointe-Claire,6,4,2021,10,4849,1098000
+"231, Chemin du Bord-du-Lac-Lakeshore",Pointe-Claire,2,3,1958,11,7740,949000
+"136, Avenue de Dieppe",Pointe-Claire,7,5,2015,22,8886,1580000
+"44, Avenue des Frênes",Pointe-Claire,4,3,2019,8,2573,728000
+"144, Avenue d' Ivanhoe Crescent",Pointe-Claire,3,2,1955,10,7500,675000
+"448, Avenue Saint-Louis",Pointe-Claire,2,2,1946,8,18000,1299000
+"130, Avenue Crestview",Pointe-Claire,4,2,1962,9,5400,459000
+"292, Avenue Inglewood",Pointe-Claire,2,3,1955,10,7500,525000
+"95, Avenue Hastings",Pointe-Claire,6,4,2021,10,4849,1123000
+"15, Chemin du Bord-du-Lac-Lakeshore",Pointe-Claire,3,3,1925,8,16819,999999
+"124, Avenue Empress",Pointe-Claire,4,2,1959,9,5995,639900
+"29, Avenue Tampico",Pointe-Claire,5,2,1959,12,7085,749000
+"31, Avenue de la Baie-de-Valois",Pointe-Claire,4,2,1934,12,4635,549000
+"99, Avenue Hastings",Pointe-Claire,6,4,2021,10,4849,1078000
+"236, Avenue Strathcona",Pointe-Claire,6,3,1998,14,4767,798000
+"11, Avenue Westfield",Pointe-Claire,4,3,1987,10,6000,849900
+"123, Avenue Chaucer",Pointe-Claire,3,2,1986,6,2200,469000
+"123, Avenue Viking",Pointe-Claire,4,2,1960,13,7512,509000
+"1406, boulevard Céloron",Blainville,3,2,2001,8,4332,398000
+"35, Rue Joseph-Bepka",Blainville,2,1,1955,5,7604,274900
+"19, Rue de Brissac",Blainville,6,4,1998,22,15455,1698000
+"34, 27e Avenue Ouest",Blainville,6,2,1957,13,9409,375000
+"33, Rue de Montagny",Blainville,3,3,2018,9,8099,1150000
+"32, 92e Avenue Ouest",Blainville,5,2,1976,12,9660,485900
+"22, Rue de Franchimont",Blainville,4,4,2001,13,11893,1175000
+"7, Rue des Lilas",Blainville,4,2,1971,11,4414,299000
+"20, Rue Roméo-Pilon",Blainville,3,2,2003,11,8237,449000
+"12, Rue des Cormiers",Blainville,4,2,2011,12,5976,559000
+"31, Rue des Écorces",Blainville,3,2,1996,10,7423,329000
+"588, Rang Saint-François",Blainville,4,3,1998,14,32292,719000
+"56, Rue Marcel-Vidal",Blainville,5,2,2003,13,4439,429900
+"16 - 16A, Rue Réal-Benoit",Blainville,4,1,1991,9,5522,499900
+"32, Rue de Cheverny",Blainville,5,3,1996,17,10419,939000
+"7, Rue Yvan",Blainville,4,2,1968,13,6480,375000
+"22, Rue Jean-Marc-Dansro",Blainville,4,1,1988,11,5030,374999
+"33, Rue des Tournois",Blainville,3,3,2002,18,20243,969900
+"19, Montée Oudart",Blainville,5,2,2002,13,9289,549000
+"273, Rue De Tonnancour",Vaudreuil-Dorion,3,3,2011,10,4400,475000
+"141, Rue Adam",Vaudreuil-Dorion,5,2,1987,12,7700,399800
+"457, Rue Esther-Blondin",Vaudreuil-Dorion,3,1,1956,6,10500,439000
+"561, Rue Long",Vaudreuil-Dorion,4,2,1962,16,5680,525000
+"167, Rue Jacques-Hétu",Vaudreuil-Dorion,4,3,2018,13,5317,850000
+"206, Rue Bellini",Vaudreuil-Dorion,3,2,2012,8,3609,429900
+"2665, Rue des Floralies",Vaudreuil-Dorion,3,2,1994,13,3391,449000
+"3396, Route Harwood",Vaudreuil-Dorion,3,2,1850,11,82581,1549000
+"6100, Rue Boulay",Vaudreuil-Dorion,4,2,2017,12,37922,545000
+"3641, Rue Lomer-Gouin",Vaudreuil-Dorion,3,2,2002,7,5355,499000
+"202, Rue Galt",Vaudreuil-Dorion,3,2,1945,10,5000,349000
+Rue des Cerisiers,Vaudreuil-Dorion,4,5,2021,18,30064,1100000
+"333, Rue De Tonnancour",Vaudreuil-Dorion,3,3,2010,10,3462,509000
+"2667, Rue Justine-Poirier",Vaudreuil-Dorion,3,2,2002,8,4646,485000
+"143, Rue Bizet",Vaudreuil-Dorion,3,2,2010,7,286,450000
+"700, Route de la Cité des Jeunes",Vaudreuil-Dorion,3,2,2021,6,20668,640000
+"545, Chemin de l'Anse",Vaudreuil-Dorion,7,7,1993,30,95396,5600000
+"5590, boulevard Saint-Joseph",Lachine,6,5,2010,15,10069,2698000
+"655, 25e Avenue",Lachine,4,3,1930,14,3274,699000
+"399, 36e Avenue",Lachine,4,2,1978,11,5148,699000
+"715, 7e Avenue",Lachine,3,1,1910,9,4114,575000
+"4655, Rue Acadia",Lachine,4,2,1950,14,7400,750000
+"47, Avenue Jolicoeur",Lachine,4,2,1909,11,4750,419000
+"340, 50e Avenue",Lachine,3,2,1951,8,5000,689000
+"52, Avenue Hillcrest",Lachine,4,2,1924,6,1388,498900
+"450, Avenue Jenkins",Lachine,5,3,2019,11,2589,798888
+"288, 34e Avenue",Lachine,3,1,1925,9,3200,449900
+"168, Avenue Milton",Lachine,4,4,2011,14,1749,659000
+"525, 5e Avenue",Lachine,1,1,1915,3,1875,279000
+"758, 13e Avenue",Lachine,2,1,1945,9,4774,499000
+"3050, Terrasse J.-S.-Aimé-Ashby",Lachine,3,2,1995,7,1974,525000
+"821, 44e Avenue",Lachine,4,3,1984,10,8191,995000
+"2890, Terrasse J.-S.-Aimé-Ashby",Lachine,3,3,1998,11,2338,774900
+"80, Chemin de LaSalle",Lachine,3,3,1883,18,10015,1279900
+"1455, Rue Antonio",Laval ,2,1,1951,7,6994,425000
+"4898, Rue Churchill",Laval ,3,3,1980,13,2445,459000
+"126, Rue Leduc",Laval ,3,2,1969,7,5000,429000
+"165, Rue Saint-Judes",Laval ,4,3,1983,13,2975,429900
+"4650, Avenue Louis-Payette",Laval ,3,3,1991,13,4719,569900
+"2142, Rue Gosselin",Laval ,3,2,1983,11,4601,375000
+"1780, Rue Maurice-Gauvin",Laval ,5,1,1952,8,10000,650000
+"5348, Avenue Clarendon",Laval ,3,3,1987,10,2803,489000
+"176, Rue Saint-Judes",Laval ,5,3,1965,13,4500,689000
+"4643, boulevard Cleroux",Laval ,3,2,1994,11,3170,550000
+"4778, Rue Du Tremblay",Laval ,4,2,1971,7,3246,449000
+"2990, Rue Chateaubriand",Laval ,4,3,2007,12,5565,859000
+"4580, boulevard du Souvenir",Laval ,3,3,1974,11,2742,488000
+"1973, Rue de la Victoire",Laval ,5,3,1963,16,4368,545000
+"5128, Avenue Charlevoix",Laval ,4,3,1966,10,11740,588500
+"4403, Rue Hamelin",Laval ,2,2,1983,9,3186,365000
+"1372, Rue Ethier",Laval ,3,2,1990,9,3060,449900
+"1850, Rue de Madère",Laval ,4,2,1988,9,4823,599900
+"756, boulevard Samson",Laval,4,2,1984,10,7594,697900
+"1070, boulevard de l'Hôtel-de-Ville",Laval,3,3,1997,13,2565,429000
+"301, Rue Boulanger",Laval,5,3,2009,12,3498,699000
+"487, Rue Toussaint",Laval,3,2,1993,11,2734,549000
+"468, Rue de Saint-Servan",Laval,4,4,2004,10,4735,850000
+"768, Avenue Josaphat-Demers",Laval,3,3,2001,7,3786,659000
+"67, Chemin du Tour",Laval,3,1,1954,13,15531,650000
+"174, Rue Lamarche",Laval,3,3,2004,7,3495,689000
+"32 - 34, Chemin du Bord-de-l'Eau",Laval,4,2,1956,8,11882,642600
+"1630, Rue Islemere",Laval,5,3,1987,11,7700,799000
+"54, Chemin du Bord-de-l'Eau",Laval,3,2,1937,7,11970,685650
+"771, Rang Saint-Antoine",Laval,3,1,1955,6,16326,399000
+"774, Rue Paul-Gauguin",Laval,5,3,1997,15,9129,889000
+"856, Terrasse Lecavalier",Laval,6,3,1959,17,7605,479000
+"510, Rue Jetté",Laval,5,4,1998,20,19190,1299999
+"965, Montée Champagne",Laval,6,6,2017,26,6000,1100000
+"1106, Chemin du Bord-de-l'Eau",Laval,4,6,2020,18,12296,2300000
+"321, Rue Malouin",Laval,3,2,2003,11,3940,649800
+"8, Rue Becquet",Laval ,3,2,1990,11,3998,409900
+"327, Rue Miron",Laval ,4,2,1987,12,2646,449000
+"1, Terrasse Bélanger",Laval ,2,1,1956,7,8445,225000
+"1166, Rue Pierre-Quenneville",Laval ,4,3,2000,7,4537,549000
+"413, Rue Jean-Brouillet",Laval ,3,2,1995,9,3079,489000
+"48, Rue L'Auberivière",Laval ,4,1,1966,6,5539,469000
+"1262, Rue Armand-Auclair",Laval ,3,2,1997,9,3300,399900
+"2276, Chemin de la Petite-Côte",Laval ,4,2,2007,7,4087,629000
+"2425, Rue de l'Eider",Laval ,4,3,1989,14,5045,729900
+"6740, Rue Jean-Paul-Lemieux",Laval ,4,3,1999,11,3723,569000
+"6226, Rue des Sizerins",Laval ,4,2,1997,14,4197,624000
+"8, Rue Notre-Dame-de-Laval",Laval ,4,2,1977,12,6381,335000
+"2325, Rue des Patriotes",Laval ,5,3,1976,15,6768,689900
+"46, Rue L'Auberivière",Laval ,4,2,1963,8,5530,379900
+"314, Rue Desparois",Laval ,3,2,1986,11,4542,399000
+"1881, Rue des Becs-Scies",Laval ,2,2,1994,8,3363,399000
+"24, Rue Lortie",Laval ,4,2,1930,8,7225,549000
+"11, Rue de la Belle-Plage",Laval ,1,1,1955,5,2768,199000
+"36, Rue Lortie",Laval ,4,2,1945,12,3175,299995
+"6525, Avenue des Perruches",Laval ,4,2,1976,12,6500,675000
+"38, boulevard Montcalm Sud",Candiac,4,2,1965,12,8251,538000
+"7, Avenue d'Alsace",Candiac,4,4,1997,16,6004,908000
+"58, Avenue Hermès",Candiac,3,2,1961,12,5700,449000
+"87, Rue Flaubert",Candiac,3,2,2009,9,6214,474999
+"65, Place Jason",Candiac,4,2,1976,10,6102,499000
+"29, Rue de l'Estoril",Candiac,5,4,2004,22,6870,1338000
+"77, Rue de Darvault",Candiac,5,3,2008,13,6408,998000
+"10, Avenue Jackson",Candiac,3,2,1971,11,3060,339000
+"53, Avenue de Honfleur",Candiac,4,2,1961,12,6672,388000
+"235, boulevard Champlain",Candiac,4,2,1975,10,8304,509900
+"75, Avenue Fouquet",Candiac,4,3,2008,10,3261,475000
+"75, Rue de Syracuse",Candiac,4,2,2008,10,6116,419000
+"52, Avenue de Barcelone",Candiac,4,4,1977,13,8414,899900
+"273, Rue Birch",Châteauguay,2,2,1981,8,9570,380000
+"214, Rue Elmridge",Châteauguay,5,4,2004,18,7879,820000
+"298, boulevard D'Youville",Châteauguay,1,1,1930,4,15720,319000
+"150, boulevard Salaberry Nord",Châteauguay,6,3,1962,16,20916,725000
+"64, Chemin de la Haute-Rivière",Châteauguay,4,2,1970,12,11406,350000
+"159, Rue Principale",Châteauguay,4,2,1958,10,7500,495000
+"161, boulevard Sainte-Marguerite",Châteauguay,3,3,1971,9,3371,339000
+"12, Rue Watt",Châteauguay,3,2,1950,8,3297,299000
+"330, Rue Beaubien",Châteauguay,4,3,2013,13,6801,560000
+"131, Rue Hébert",Châteauguay,3,2,1967,11,4950,379000
+"134 - 134A, Rue Saint-Mary's",Châteauguay,2,2,1987,5,4500,359000
+"92, Rue La Salle",Châteauguay,3,2,1962,10,5104,339900
+"23, Rue Reid",Châteauguay,5,1,1954,7,5248,395000
+"27, Rue Dorais",Châteauguay,3,2,2020,11,5247,424000
+"300, boulevard Salaberry Sud",Châteauguay,6,4,2013,20,46328,1295000
+"44, Rue Lalemant",Châteauguay,4,2,1964,9,5400,289000
+"322, Rue Notre-Dame Nord",Châteauguay,4,4,1994,9,16001,619000
+"129, Avenue Jacques-Martin",La Prairie,4,2,2008,14,6426,868000
+"227, Rue Charles-Péguy Ouest",La Prairie,3,1,1965,9,6731,459000
+"395, Rue Beausoleil",La Prairie,4,3,1987,10,2438,526000
+"1229, Chemin du Sault-Saint-Louis",La Prairie,4,3,1768,16,19816,1150000
+"140, Rue Sainte-Catherine",La Prairie,3,2,1962,13,5658,395000
+"340, Rue du Monarque",La Prairie,4,4,2016,14,4808,899000
+"400, Rue Marguerite-Bourgeoys",La Prairie,4,2,1999,9,4605,539000
+"15, Rue des Glaïeuls",La Prairie,5,2,1990,13,6041,698000
+"260, boulevard de la Fourche",La Prairie,4,3,2015,9,5248,1250000
+"469, Rue Charles-Péguy Est",La Prairie,3,2,1959,11,8145,550000
+"418, Chemin de Saint-Jean",La Prairie,4,2,1948,10,3425,329000
+"665, boulevard de La Magdeleine",La Prairie,4,2,1981,9,6001,499000
+"25, Rue des Jacinthes",La Prairie,4,2,1971,10,6000,498000
+"805, Rue Sainte-Rose",La Prairie,2,1,1952,8,1709,299000
+"702, Rue Deslauriers",La Prairie,2,2,1962,10,5820,449900
+"565, Rue Saint-Laurent",La Prairie,3,2,2000,12,1830,449900
+"191, Chemin de Saint-Jean",La Prairie,1,2,1984,7,2409,449000
+"150, Rue de la Terre-de-Feu",La Prairie,4,3,2010,14,5821,699000
+"115, Rue Omer-Daigneault",Mercier,4,3,2018,12,3042,470000
+"47, Rue Sauvé",Mercier,2,2,1961,9,12732,349000
+"3, Rue Pluton",Mercier,3,2,1977,8,6858,319900
+"969, Rue Saint-Joseph",Mercier,5,2,2005,13,7241,349000
+"38, Rue des Perdrix",Mercier,4,2,2005,11,9838,599000
+"32, Rue Marleau",Mercier,4,2,1981,12,8921,350000
+"76, Rue des Perdrix",Mercier,3,1,1996,7,4308,339000
+"7, Rue des Faisans",Mercier,3,2,2003,11,7330,559000
+"178, Rue Omer-Daigneault",Mercier,3,2,2018,11,2056,449000
+"110, Rue de l'Église",Mercier,5,2,1976,7,7887,410000
+"54, Rue des Épinettes",Mercier,5,2,1981,11,6029,345000
+"2, Rue des Mélèzes",Mercier,4,2,1976,11,6951,389900
+"1262, boulevard Sainte-Marguerite",Mercier,9,3,1870,18,77342,599000
+"17, Rue d'Amos",Mercier,4,2,1978,11,6018,345000
+"4, Rue Saint-François",Mercier,4,1,1900,8,6296,249000
+"27, Rue Bourdeau",Mercier,4,2,1986,9,6619,399900
+"79, Rue Mallette",Mercier,5,3,2010,18,7158,615000
+"20, Rue Léopold-Savage",Mercier,4,5,2013,12,10499,1399000
+"39, Rue Gaétan",Mercier,5,3,1964,12,5700,549000
+"1594, boulevard Saint-Jean-Baptiste",Mercier,4,2,1955,12,315810,620000
+"4080, Rue des Amarres",Sainte-Catherine,4,2,1976,9,6138,385000
+"3145, boulevard Marie-Victorin",Sainte-Catherine,3,1,1959,6,7500,478000
+"3945, Rue Talon",Sainte-Catherine,5,2,1999,12,7437,629900
+"585, Rue Séguin",Sainte-Catherine,2,2,1995,11,3054,349900
+"865, Rue Séguin",Sainte-Catherine,3,2,1994,13,2967,345000
+"920, Croissant Marco-Polo",Sainte-Catherine,5,2,1991,12,6104,375000
+"785, Rue Jogues",Sainte-Catherine,2,2,1971,7,3859,320000
+"1305, Rue des Sarcelles",Sainte-Catherine,3,3,1998,10,5513,449000
+"5585, Rue Rivard",Sainte-Catherine,5,3,2001,15,9052,978000
+"1560, Rue des Merisiers",Sainte-Catherine,4,2,1976,11,6300,399000
+"1540, Rue des Orioles",Sainte-Catherine,5,2,1996,12,6719,449000
+"550, Rue Jogues",Sainte-Catherine,3,2,1971,8,3500,299000
+"110, Rue Lamarche",Sainte-Catherine,2,3,1975,13,6608,499000
+"100, Rue Villeneuve",Saint-Constant,3,2,1993,10,2086,289900
+"36, Rue Morin",Saint-Constant,5,3,1987,10,8860,499000
+"37, Rue Larivière",Saint-Constant,3,2,1991,11,6023,399000
+"551, Rue Renoir",Saint-Constant,3,2,2018,9,2784,499000
+"41, Rue Blais",Saint-Constant,4,2,1988,15,8764,695000
+"26, Rue Renoir",Saint-Constant,5,3,2011,13,5357,699888
+"35, Rue Saint-Philippe",Saint-Constant,4,2,1964,9,7481,474900
+"61, Rue Rouvière",Saint-Constant,3,2,2017,11,2700,499000
+"188, Rue Capes",Saint-Constant,4,3,2003,14,8779,699000
+"385, Rue du Grenadier",Saint-Constant,3,3,2018,16,2688,485000
+"47, Rue Proulx",Saint-Constant,3,2,1973,9,7700,399000
+"14, Rue Cousineau",Saint-Constant,4,1,1986,8,4521,399900
+"23, Rue de l'Église",Saint-Constant,5,2,1967,12,6700,499000
+"62Z - 64Z, Rue Benoit",Saint-Constant,4,3,2007,11,4887,550000
+"65, Rue Boisjoli",Saint-Constant,3,2,2007,9,1224,300000
+"64, Rue Brosseau",Saint-Constant,3,2,2006,12,4844,489900
+"444, Rue du Grenadier",Saint-Constant,3,3,2018,10,3462,469000
+"229, Rue Saint-Pierre",Saint-Constant,4,2,1923,12,7107,549900
+"42, Rue Bélanger",Saint-Constant,5,3,1978,11,17258,649900
+"109, Rue Beaupré",Saint-Constant,6,2,1981,15,6000,585000
+"115, Rue Omer-Daigneault",Mercier,4,3,2018,12,3042,470000
+"47, Rue Sauvé",Mercier,2,2,1961,9,12732,349000
+"3, Rue Pluton",Mercier,3,2,1977,8,6858,319900
+"969, Rue Saint-Joseph",Mercier,5,2,2005,13,7241,349000
+"38, Rue des Perdrix",Mercier,4,2,2005,11,9838,599000
+"32, Rue Marleau",Mercier,4,2,1981,12,8921,350000
+"76, Rue des Perdrix",Mercier,3,1,1996,7,4308,339000
+"7, Rue des Faisans",Mercier,3,2,2003,11,7330,559000
+"178, Rue Omer-Daigneault",Mercier,3,2,2018,11,2056,449000
+"110, Rue de l'Église",Mercier,5,2,1976,7,7887,410000
+"54, Rue des Épinettes",Mercier,5,2,1981,11,6029,345000
+"2, Rue des Mélèzes",Mercier,4,2,1976,11,6951,389900
+"1262, boulevard Sainte-Marguerite",Mercier,9,3,1870,18,77342,599000
+"17, Rue d'Amos",Mercier,4,2,1978,11,6018,345000
+"4, Rue Saint-François",Mercier,4,1,1900,8,6296,249000
+"27, Rue Bourdeau",Mercier,4,2,1986,9,6619,399900
+"79, Rue Mallette",Mercier,5,3,2010,18,7158,615000
+"20, Rue Léopold-Savage",Mercier,4,5,2013,12,10499,1399000
+"39, Rue Gaétan",Mercier,5,3,1964,12,5700,549000
+"1594, boulevard Saint-Jean-Baptiste",Mercier,4,2,1955,12,315810,620000
+"4080, Rue des Amarres",Sainte-Catherine,4,2,1976,9,6138,385000
+"3145, boulevard Marie-Victorin",Sainte-Catherine,3,1,1959,6,8050,478000
+"3945, Rue Talon",Sainte-Catherine,5,2,1999,12,7437,629900
+"585, Rue Séguin",Sainte-Catherine,2,2,1995,11,3054,349900
+"865, Rue Séguin",Sainte-Catherine,3,2,1994,13,2967,345000
+"920, Croissant Marco-Polo",Sainte-Catherine,5,2,1991,12,6104,375000
+"785, Rue Jogues",Sainte-Catherine,2,2,1971,7,3859,320000
+"1305, Rue des Sarcelles",Sainte-Catherine,3,3,1998,10,5513,449000
+"5585, Rue Rivard",Sainte-Catherine,5,3,2001,15,9052,978000
+"1560, Rue des Merisiers",Sainte-Catherine,4,2,1976,11,6300,399000
+"1540, Rue des Orioles",Sainte-Catherine,5,2,1996,12,6719,449000
+"550, Rue Jogues",Sainte-Catherine,3,2,1971,8,1971,299000
+"100 - 110, Rue Lamarche",Sainte-Catherine,2,3,1977,13,6608,499000
+"100, Rue Villeneuve",Saint-Constant,3,2,1993,10,2086,289900
+"36, Rue Morin",Saint-Constant,5,3,1987,10,8860,499000
+"37, Rue Larivière",Saint-Constant,3,2,1991,11,6023,399000
+"551, Rue Renoir",Saint-Constant,3,2,2018,9,2784,499000
+"41, Rue Blais",Saint-Constant,4,2,1988,15,8764,695000
+"26, Rue Renoir",Saint-Constant,5,3,2011,13,5357,699888
+"35, Rue Saint-Philippe",Saint-Constant,4,2,1964,9,7481,474900
+"61, Rue Rouvière",Saint-Constant,3,2,2017,11,2800,499000
+"188, Rue Capes",Saint-Constant,4,3,2003,14,6030,699000
+"385, Rue du Grenadier",Saint-Constant,3,3,2018,16,2688,485000
+"47, Rue Proulx",Saint-Constant,3,2,1973,9,7700,399000
+"14, Rue Cousineau",Saint-Constant,4,1,1986,8,4521,399900
+"23, Rue de l'Église",Saint-Constant,5,2,1967,12,6700,499000
+"62Z - 64Z, Rue Benoit",Saint-Constant,4,3,2007,11,4887,550000
+"65, Rue Boisjoli",Saint-Constant,3,2,2007,9,1224,300000
+"64, Rue Brosseau",Saint-Constant,3,2,2006,12,4844,489900
+"444, Rue du Grenadier",Saint-Constant,3,3,2018,10,3462,469000
+"229, Rue Saint-Pierre",Saint-Constant,4,2,1923,12,7107,549900
+"42, Rue Bélanger",Saint-Constant,5,3,1978,11,17258,649900
+"109, Rue Beaupré",Saint-Constant,6,2,1981,15,6000,585000
+"273, Rue De Tonnancour",Vaudreuil-Dorion,3,3,2011,10,4400,475000
+"141, Rue Adam",Vaudreuil-Dorion,5,2,1987,12,7700,399800
+"457, Rue Esther-Blondin",Vaudreuil-Dorion,3,1,1956,6,10500,439000
+"561, Rue Long",Vaudreuil-Dorion,4,2,1962,16,5680,525000
+"167, Rue Jacques-Hétu",Vaudreuil-Dorion,4,3,2018,13,5317,850000
+"206, Rue Bellini",Vaudreuil-Dorion,3,2,2012,8,3609,429900
+"2665, Rue des Floralies",Vaudreuil-Dorion,3,2,1994,13,3391,449000
+"176, Rue Liébert",Vaudreuil-Dorion,3,2,1971,11,4389,399900
+"3396, Route Harwood",Vaudreuil-Dorion,3,2,1850,11,82581,1549000
+"6100, Rue Boulay",Vaudreuil-Dorion,4,2,2017,12,37922,545000
+"3641, Rue Lomer-Gouin",Vaudreuil-Dorion,3,2,2002,7,5355,499000
+"202, Rue Galt",Vaudreuil-Dorion,3,2,1945,10,5000,349000
+Rue des Cerisiers,Vaudreuil-Dorion,4,5,2021,18,30064,1200000
+"333, Rue De Tonnancour",Vaudreuil-Dorion,3,3,2010,10,3462,509000
+"2667, Rue Justine-Poirier",Vaudreuil-Dorion,3,2,2002,8,4646,485000
+"143, Rue Bizet",Vaudreuil-Dorion,3,2,2010,7,286,450000
+Rue du Ravin-Boisé,Vaudreuil-Dorion,3,2,2021,6,20668,650000
+"545, Chemin de l'Anse",Vaudreuil-Dorion,7,7,1993,30,95396,5600000
+"5590, boulevard Saint-Joseph",Lachine,6,5,2010,15,10069,2698000
+"655, 25e Avenue",Lachine,4,3,1930,14,3274,699000
+"399, 36e Avenue",Lachine,4,2,1978,11,5148,699000
+"715, 7e Avenue",Lachine,3,1,1910,9,4114,575000
+"4655, Rue Acadia",Lachine,4,2,1950,14,7400,750000
+"47, Avenue Jolicoeur",Lachine,4,2,1909,11,4750,419000
+"340, 50e Avenue",Lachine,3,2,1951,8,5000,689000
+"52, Avenue Hillcrest",Lachine,4,2,1924,6,1388,498900
+"450, Avenue Jenkins",Lachine,5,3,2019,11,2589,798888
+"288, 34e Avenue",Lachine,3,1,1925,9,3200,449900
+"168, Avenue Milton",Lachine,4,4,2011,14,1749,659000
+"525, 5e Avenue",Lachine,1,1,1915,3,1875,279000
+"758, 13e Avenue",Lachine,2,1,1945,9,4774,499000
+"3050, Terrasse J.-S.-Aimé-Ashby",Lachine,3,2,1995,7,1974,525000
+"4440, Rue Sherbrooke",Lachine,4,3,1984,10,8191,995000
+"2890, Terrasse J.-S.-Aimé-Ashby",Lachine,3,3,1998,11,2338,774900
+"80, Chemin de LaSalle",Lachine,3,3,1883,18,10015,1279900
+"2391, Rue Sherbrooke",Lachine,3,1,1951,9,1800,349900
+"5131, Avenue Westmore",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1956,8,2425,699000
+"5347, Avenue MacMahon",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1951,13,3950,799000
+"3436, Avenue de Melrose",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1915,6,2375,1559000
+"5637, Avenue de Stirling",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),16,7,1910,19,9939,2795000
+"4379, boulevard Décarie",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),5,4,2009,11,4000,1575000
+"3490, Avenue Patricia",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1949,13,4795,995000
+"5862, Avenue Notre-Dame-de-Grâce",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,4,1922,10,2730,1845000
+"4400, Avenue Rosedale",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1947,11,9205,1548000
+"4170, Avenue Marlowe",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1955,8,3619,1234000
+"4470, Avenue Montclair",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),3,2,1958,11,4622,999000
+"5117, Avenue Patricia",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),3,3,1986,9,2425,799000
+"3800, Avenue Northcliffe",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),5,3,1928,10,2564,1295000
+"6415, Avenue MacDonald",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),5,4,1950,14,5942,1195000
+"4500, Avenue Patricia",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,4,1951,13,6214,1149000
+"4389, Avenue Walkley",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,4,1951,16,4718,1599000
+"4445, Avenue Montclair",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,4,1953,9,4795,1725000
+"5247, Avenue Belmore",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),4,3,1952,12,4500,899000
+"3820, Avenue Prud'homme",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),3,3,1910,11,1168,998900
+5731 Avenue Déom,Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),3,2,1925,12,5939,1988800
+"4996, Avenue Roslyn",Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce),5,3,1945,10,3022,1560000
+"8, Rue Airlie",Montréal (LaSalle),3,3,1955,7,2961,698000
+"20, 67e Avenue",Montréal (LaSalle),4,2,1947,7,4185,749000
+"9665, Rue William-Fleming",Montréal (LaSalle),4,3,2016,12,2016,725000
+"299, 9e Avenue",Montréal (LaSalle),4,3,1976,8,3115,895000
+"81, Avenue du Trésor-Caché",Montréal (LaSalle),4,2,1947,13,1947,449000
+"7704, Rue Leclerc",Montréal (LaSalle),3,3,1977,7,1660,579000
+"1979, Rue Pigeon",Montréal (LaSalle),4,4,2012,14,2542,719000
+"1112, Rue Perras",Montréal (LaSalle),3,2,1979,7,1870,524700
+"391, Rue Duhamel",Montréal (LaSalle),3,3,1984,11,3800,865000
+"1979, Rue Pigeon",Montréal (LaSalle),4,4,2012,14,2542,719000
+"256, Rue du Fort-Rémy",Montréal (LaSalle),3,3,1997,10,2800,569000
+"808, Rue Carignan",Montréal (LaSalle),3,4,1986,6,4923,1399999
+"8026, Rue Jean-Chevalier",Montréal (LaSalle),2,3,2014,9,1958,625000
+"6882, Rue Marie-Guyart",Montréal (LaSalle),3,4,2002,8,3230,928000
+"1049, 36e Avenue",Montréal (LaSalle),3,2,1955,13,5418,595000
+"1879, Rue du Bois-des-Caryers",Montréal (LaSalle),3,3,2017,13,2019,825000
+"97, Rue Stinson",Montréal (LaSalle),3,3,1950,7,3880,499000
+"7740 - 7742, Rue Serge",Montréal (LaSalle),3,1,1970,7,1494,379000
+"636, Avenue Dunlop",Montréal (Outremont),11,7,1927,20,15645,3995000
+"654, boulevard Dollard",Montréal (Outremont),4,2,1923,13,4159,1995000
+"297, Avenue de l'Épée",Montréal (Outremont),4,2,1912,11,2100,2199000
+"1619, Avenue Lajoie",Montréal (Outremont),3,3,1921,15,2558,1729000
+"55, Avenue Courcelette",Montréal (Outremont),6,6,1956,22,7952,5088000
+"5170 - 5172, Rue Hutchison",Montréal (Outremont),4,4,1906,9,2500,1899000
+"19, Avenue Prince-Philip",Montréal (Outremont),5,5,1964,15,4821,2895000
+"76, Avenue Claude-Champagne",Montréal (Outremont),4,7,1929,14,3855,3595000
+"88 - 90, Avenue McNider",Montréal (Outremont),5,3,1956,11,3091,1848000
+"1785, Avenue Lajoie",Montréal (Outremont),7,4,1929,17,4376,2825000
+"241, Avenue Querbes",Montréal (Outremont),5,3,1911,10,2670,1850000
+"15, Avenue de Vimy",Montréal (Outremont),7,5,1927,15,5389,2775000
+"453, Avenue Outremont",Montréal (Outremont),5,4,1912,18,4005,2750000
+"22 - 22A, Avenue Claude-Champagne",Montréal (Outremont),8,8,1916,16,18073,4995000
+"83, Avenue Courcelette",Montréal (Outremont),5,5,2005,12,4941,3495000
+"734, Avenue Rockland",Montréal (Outremont),4,3,1909,9,4365,1795000
+"712, Avenue Pratt",Montréal (Outremont),6,4,1976,12,6250,4199000
+"756, Avenue Rockland",Montréal (Outremont),4,4,1930,8,3175,2349000
+"7421, Avenue Mousseau",Montréal (Anjou),4,2,1957,12,4515,465000
+"7403, Avenue Mousseau",Montréal (Anjou),2,2,1940,6,3444,449000
+"5824, Avenue Des Ormeaux",Montréal (Anjou),3,2,1975,9,5006,925000
+"9500, Avenue de Bretagne",Montréal (Anjou),3,3,1985,7,5088,668000
+"6924, Avenue Lionel-Daunais",Montréal (Anjou),3,2,1984,9,6267,569900
+"9041, Avenue Montesquieu",Montréal (Anjou),5,2,1977,9,4411,689000
+"7804, Place Seuilly",Montréal (Anjou),3,2,1964,9,1708,429000
+"7593, Avenue Thames",Montréal (Anjou),3,2,1960,7,5715,729000
+"6231, Place Bois-de-Coulonge",Montréal (Anjou),4,3,1961,9,8987,929000
+"8241, boulevard de Châteauneuf",Montréal (Anjou),4,2,1962,12,4187,749900
+"8721, Avenue Vezeau",Montréal (Anjou),5,4,1984,18,6040,848800
+"8230, Avenue de la Seine",Montréal (Anjou),3,2,1957,7,4427,535000
+"6827, Avenue Charles-Goulet",Montréal (Anjou),3,2,1993,7,2069,489000
+"7831, Rue Wilbrod-Bonin",Montréal (Anjou),4,4,1980,15,7406,998000
+"6885, Avenue Lionel-Daunais",Montréal (Anjou),3,2,1984,9,6740,599000
+"7211, Croissant du Littoral",Montréal (Anjou),3,2,2002,7,2829,550000
+"7940, Place Dade",Montréal (Anjou),5,2,1959,13,5271,699000
+"2345, Chemin du Bord-du-Lac",Montréal (L'Île-Bizard/Sainte-Geneviève),4,3,1938,12,35437,1398000
+"898, 2e Avenue",Montréal (L'Île-Bizard/Sainte-Geneviève),4,3,2020,12,5310,849000
+"7, Place des Cageux",Montréal (L'Île-Bizard/Sainte-Geneviève),5,7,2012,20,45940,3995000
+"251, Rue Saint-Raphaël",Montréal (L'Île-Bizard/Sainte-Geneviève),5,4,1992,13,11740,1350000
+"760, Carré Rollin",Montréal (L'Île-Bizard/Sainte-Geneviève),3,2,1979,13,6126,629900
+"27, Rue Mercier",Montréal (L'Île-Bizard/Sainte-Geneviève),2,1,1995,6,4895,385000
+"3235, Rue Cherrier",Montréal (L'Île-Bizard/Sainte-Geneviève),4,4,1949,14,22565,1299000
+"120, Rue Saint-Louis (Sainte-Geneviève)",Montréal (L'Île-Bizard/Sainte-Geneviève),7,5,1990,23,11548,1150000
+"15, Rue Cardinal",Montréal (L'Île-Bizard/Sainte-Geneviève),4,2,1976,12,10560,459000
+"242, Rue Trépanier",Montréal (L'Île-Bizard/Sainte-Geneviève),4,2,1985,13,7745,499000
+"287, Avenue des Érables",Montréal (L'Île-Bizard/Sainte-Geneviève),5,4,1989,25,16142,1289000
+"8, Rue Bégin",Montréal (L'Île-Bizard/Sainte-Geneviève),5,3,1997,21,10077,899000
+"3014, Rue Cherrier",Montréal (L'Île-Bizard/Sainte-Geneviève),4,4,2008,20,24800,3195000
+"15, Rue Roy",Montréal (L'Île-Bizard/Sainte-Geneviève),5,2,1976,13,7544,474900
+"153, Rue Joly",Montréal (L'Île-Bizard/Sainte-Geneviève),2,1,1996,9,12200,375000
+"6, Place du Moulin",Montréal (L'Île-Bizard/Sainte-Geneviève),3,3,1978,11,24247,675000
+"1981, boulevard Alexis-Nihon",Montréal (Saint-Laurent),4,4,2003,15,2159,1420000
+"4363, Place Joseph-Lenoir",Montréal (Saint-Laurent),5,6,2003,19,10776,2599000
+"2682, Avenue Ernest-Hemingway",Montréal (Saint-Laurent),3,3,2003,13,9000,1048000
+"811, Carré Simon",Montréal (Saint-Laurent),3,4,1986,10,2652,714900
+"4267, Avenue Ernest-Hemingway",Montréal (Saint-Laurent),2,2,2009,7,1900,699000
+"1465, Rue Saint-Germain",Montréal (Saint-Laurent),3,3,1948,7,3000,748000
+"2122, Rue John-McCurdy",Montréal (Saint-Laurent),4,3,2005,13,2156,859000
+"4267, Avenue Ernest-Hemingway",Montréal (Saint-Laurent),2,2,2009,7,1897,699000
+"2932, Rue des Andes",Montréal (Saint-Laurent),3,3,2010,10,1871,1049000
+"1820, Rue Filion",Montréal (Saint-Laurent),6,2,1952,9,4750,775000
+"4398, Rue Claude-Henri-Grignon",Montréal (Saint-Laurent),7,9,2005,21,12511,3499000
+"2415, Rue Mantha",Montréal (Saint-Laurent),4,2,1955,9,4863,648000
+"2195, Rue Johnson",Montréal (Saint-Laurent),5,4,1956,13,4160,849900
+"2715, Rue Luce-Guilbeault",Montréal (Saint-Laurent),5,4,2002,16,5858,1699000
+"2341, Rue Harriet-Quimby",Montréal (Saint-Laurent),3,3,2003,11,4500,859900
+"2305, Rue de Londres",Montréal (Saint-Laurent),2,1,1942,5,3722,289000
+"4620, Avenue Félix-Leclerc",Montréal (Saint-Laurent),3,3,2002,8,2890,748000
+"2080, Rue Johnson",Montréal (Saint-Laurent),3,2,1953,9,4000,774888
+"3420, Rue Limoges",Montréal (Saint-Laurent),4,3,1962,7,4320,799000
+"9011, Rue Giovanni-Caboto",Montréal (Saint-Léonard),5,4,2000,14,8245,1100000
+"7025, Rue Antonio-Di Ciocco",Montréal (Saint-Léonard),4,4,1987,13,13709,2750000
+"9156, Rue Boissonneault",Montréal (Saint-Léonard),3,2,1973,9,4633,559000
+"6585, boulevard Lavoisier",Montréal (Saint-Léonard),3,3,1999,11,9338,959000
+"4605, Rue Enrico-Fermi",Montréal (Saint-Léonard),5,5,1988,15,11073,1799000
+"7100, Rue Daudet",Montréal (Saint-Léonard),4,3,2017,12,1923,820000
+"5230, Rue philias-Gagnon",Montréal (Saint-Léonard),5,3,2005,15,5343,969000
+"5780, Rue Georges-Corbeil",Montréal (Saint-Léonard),4,3,1967,15,9921,1398888
+"5585, Rue des Artisans",Montréal (Saint-Léonard),4,4,2012,10,7480,1675000
+"9275, Rue Puyseaux",Montréal (Saint-Léonard),4,3,1965,9,5220,659000
+"5525, Rue des Artisans",Montréal (Saint-Léonard),3,4,2019,13,6930,1425000
+"8630, Rue Aéterna",Montréal (Saint-Léonard),6,6,2005,25,8176,2950000
+"5890, Rue Giffard",Montréal (Saint-Léonard),3,1,1964,12,4750,549000
+"5680, Rue Doussin",Montréal (Saint-Léonard),2,3,2014,9,6145,1595000
+"7100Z, Rue Daudet",Montréal (Saint-Léonard),4,3,2017,12,1923,820000
+"9080, boulevard Lacordaire",Montréal (Saint-Léonard),4,2,1960,12,5700,599000
+"8990, boulevard Lacordaire",Montréal (Saint-Léonard),2,1,1959,7,5699,499000
+"6820, Place Richer",Montréal (Saint-Léonard),4,4,1980,11,24196,1850000
+"5247, Rue J.-B.-Martineau",Montréal (Saint-Léonard),3,3,2007,8,3226,499000
+"5430, Rue Fancamp",Montréal (Saint-Léonard),5,2,1963,12,4950,589000
+"5360, Avenue d'Orléans",Montréal (Rosemont/La Petite-Patrie),2,1,1915,6,1950,684000
+"6560, Rue Chatelain",Montréal (Rosemont/La Petite-Patrie),5,2,1955,10,3750,798000
+"5304, 4e Avenue",Montréal (Rosemont/La Petite-Patrie),2,2,1910,11,1380,680000
+"6917, 34e Avenue",Montréal (Rosemont/La Petite-Patrie),3,2,1953,7,6375,1198000
+"5072, Avenue Charlemagne",Montréal (Rosemont/La Petite-Patrie),3,2,1999,8,1100,708000
+"6751, Avenue Henri-Julien",Montréal (Rosemont/La Petite-Patrie),3,2,1910,7,1969,795000
+"5697, Rue Saint-André",Montréal (Rosemont/La Petite-Patrie),5,4,2021,12,5120,1600000
+"6537, Avenue De Chateaubriand",Montréal (Rosemont/La Petite-Patrie),3,3,2015,13,1102,1189000
+"5601, Avenue des Épinettes",Montréal (Rosemont/La Petite-Patrie),4,3,1945,13,7480,1298000
+"6537Z, Avenue De Chateaubriand",Montréal (Rosemont/La Petite-Patrie),3,3,2015,13,1102,1189000
+"6236, 26e Avenue",Montréal (Rosemont/La Petite-Patrie),2,2,1961,10,2059,399000
+"3011, Rue William-Tremblay",Montréal (Rosemont/La Petite-Patrie),3,2,1999,11,1999,939900
+"6854, 27e Avenue",Montréal (Rosemont/La Petite-Patrie),2,1,1949,6,3438,424900
+"5122, boulevard Lalande",Montréal (Pierrefonds-Roxboro),4,3,2004,8,2893,599000
+"81, 11e Avenue",Montréal (Pierrefonds-Roxboro),4,2,1957,10,8750,628000
+"26, 8e Avenue",Montréal (Pierrefonds-Roxboro),3,2,1954,8,4950,549000
+"5176, Rue des Cageux",Montréal (Pierrefonds-Roxboro),3,2,1985,8,6019,499900
+"4720, Rue du Collège-Beaubois",Montréal (Pierrefonds-Roxboro),4,5,2009,15,10795,1590000
+"17017, Rue Valentine",Montréal (Pierrefonds-Roxboro),4,4,1992,10,646,399000
+"4973, Rue Legault",Montréal (Pierrefonds-Roxboro),3,2,1989,9,5818,599000
+"6, 13e Rue",Montréal (Pierrefonds-Roxboro),3,2,1955,7,7500,510000
+"4960, Rue Kent",Montréal (Pierrefonds-Roxboro),4,2,1964,11,5688,475000
+"4188, Rue Gamelin",Montréal (Pierrefonds-Roxboro),4,2,1981,10,6514,595000
+"18459, Rue Meloche",Montréal (Pierrefonds-Roxboro),3,2,1992,10,2583,470000
+"4920, Rue des Cageux",Montréal (Pierrefonds-Roxboro),3,3,1988,7,3261,489000
+"4220, Rue Parnier",Montréal (Pierrefonds-Roxboro),4,2,1990,12,8202,699000
+"17150, boulevard Gouin Ouest",Montréal (Pierrefonds-Roxboro),4,5,2018,16,6196,1149000
+"8, Rue Lauzon",Montréal (Pierrefonds-Roxboro),1,1,1960,5,5622,295000
+"2Y - 6, Rue Deslauriers",Montréal (Pierrefonds-Roxboro),5,4,1980,16,10535,998000
+"5236, Rue des Arbres",Montréal (Pierrefonds-Roxboro),4,2,1968,10,5665,569000
+"4988, Rue Blaignier",Montréal (Pierrefonds-Roxboro),3,1,1984,8,4370,449000
+"12417, Rue Richer",Montréal (Pierrefonds-Roxboro),4,2,1962,8,6125,450000
+"31, Rue de l'Île-Barwick",Montréal (Pierrefonds-Roxboro),5,6,1977,17,9667,1375000
+"44Z, Chemin Duhamel",Pincourt,4,2,1980,12,10295,899900
+"1712, Rue des Pommetiers",Pincourt,4,3,2007,16,10671,1390000
+"46, Rue de la Seigneurie",Pincourt,3,2,2010,10,1949,465000
+"8, Rue du Marais",Pincourt,3,2,2017,10,1967,499000
+"93, 23e Avenue",Pincourt,4,2,1977,11,5400,379000
+"633, boulevard Cardinal-Léger",Pincourt,4,2,1976,11,6600,425000
+"402, Rue des Merles",Pincourt,3,3,2008,11,2521,450000
+"1107, Rue du Suroît",Pincourt,4,4,2008,16,8376,749000
+"1219, Rue des Genévriers",Pincourt,3,2,2007,11,8130,700000
+"751, Rue de la Colline",Pincourt,4,2,2008,7,4428,574700
+"94, Avenue Monseigneur-Langlois",Pincourt,3,1,1958,7,6598,339900
+"127, 5e Avenue",Pincourt,4,2,1953,6,16967,365000
+"437, Rue du Versant",Pincourt,3,2,2005,9,4314,489900
+"108, Place Chestnut",Pincourt,4,2,1972,12,4330,249900
+"420, Rue des Merles",Pincourt,3,2,2008,11,2450,395000
+"52, Place Terrasse-Boucher",Pincourt,4,3,2020,10,10162,689000
+"154, 8e Avenue",L'Île-Perrot,3,1,1971,4,5844,349000
+"300, 22e Avenue",L'Île-Perrot,2,1,1954,8,5701,429900
+"135, Rue des Pins",L'Île-Perrot,2,2,1996,9,4027,379000
+"117, Rue de Neuville",L'Île-Perrot,4,3,1989,9,6683,499900
+"169, Rue André-Lacombe",L'Île-Perrot,3,2,1994,6,3177,379500
+"160, Rue de Provence, app. 7",L'Île-Perrot,2,2,Jumelé,9,2016,365000
+"432, 24e Avenue",L'Île-Perrot,4,2,1976,12,9361,469000
+"155, Rue des Ruisseaux",L'Île-Perrot,3,2,2009,12,1170,349000
+"230, boulevard Grand",L'Île-Perrot,3,2,1957,10,3923,325000
+"54, 9e Avenue",L'Île-Perrot,3,2,1993,12,6018,575000
+"66, Rue des Manoirs",L'Île-Perrot,5,7,2020,28,88679,1750000
+"4, 6e Avenue",L'Île-Perrot,4,2,1964,10,23938,800000
+"312, 21e Avenue",L'Île-Perrot,4,2,1972,8,4750,299000
+"107, Rue d'Oxford",Hudson,5,5,2005,12,42389,2295000
+"834, Rue Main",Hudson,4,5,2010,19,98422,4400000
+"93, Rue d'Oxford",Hudson,6,6,2006,18,78854,3595000
+"105, Rue d'Oxford",Hudson,4,5,2004,19,43013,1899000
+"12 , Rue Wharf",Hudson,4,4,1948,15,16893,1479000
+"76, Rue Mount Victoria",Hudson,5,3,2021,22,29601,1139000
+"628, Rue Main",Hudson,4,5,1994,28,70966,3985000
+"145, Rue Bellevue",Hudson,3,2,1946,11,11052,339000
+"75, Rue Pine",Hudson,3,2,1957,12,7473,299000
+"95, Rue d'Oxford",Hudson,4,6,2006,26,182483,3900000
+"88, Rue Elm",Hudson,3,2,2021,6,9370,686900
+"214, Rue Main",Hudson,2,2,1990,10,19541,599000
+"64, Rue Main",Hudson,9,6,1909,19,227908,3795000
+"118, Rue Upper Whitlock",Hudson,5,7,2005,30,104076,2500000
+Rue Hazelwood,Hudson,3,2,2021,6,14509,716000
+"10, Rue Daoust",Hudson,3,2,1977,10,29030,450000
+"58, Rue Main",Hudson,5,5,2006,19,86437,4750000
+"87B, Rue Oakland",Hudson,3,2,2021,6,7873,587866
+"8, Rue Juillet",Pointe-des-Cascades,2,1,1930,8,18740,439900
+"157, Chemin du Fleuve",Pointe-des-Cascades,4,3,1999,15,22410,895000
+"209, Chemin du Fleuve",Pointe-des-Cascades,2,2,1986,7,18461,349000
+"74, Rue de la Baie",Vaudreuil-sur-le-Lac,6,4,2003,22,12612,1695000
+"3965, Chemin Sainte-Angélique",Saint-Lazare,3,4,1960,15,36801,949900
+"1475, Chemin Saint-Louis",Saint-Lazare,7,5,1900,17,53820,700000
+"1299, Chemin Saint-Louis",Saint-Lazare,3,2,2002,11,1973268,1200000
+"2541, Rue Westwood",Saint-Lazare,5,4,2013,20,19967,1095000
+"2716, Place de la Croisée",Saint-Lazare,3,3,2021,13,36704,893000
+"1325, Chemin Saint-Louis",Saint-Lazare,2,2,2003,11,1116954,2100000
+"2071, Rue de Brentwood",Saint-Lazare,4,2,1987,12,16400,369900
+"2481, Chemin Sainte-Angélique",Saint-Lazare,3,2,1959,9,10515,389000
+"2120, Rue Country",Saint-Lazare,4,2,1993,14,20319,439000
+"1850, Route de la Cité-des-Jeunes",Saint-Lazare,4,2,1982,12,37545,459900
+"1161, Rue des Ancêtres",Saint-Lazare,4,3,2003,12,9005,489000
+"1592, Chemin Sainte-Angélique",Saint-Lazare,2,1,1985,11,11250,525000
+"1008, Rue des Aventuriers",Saint-Lazare,4,3,2007,11,9346,509900
+"951, Rue des Coliades",Saint-Lazare,3,3,2021,12,4047,460100
+"2044Z, Avenue Bédard",Saint-Lazare,5,3,1975,18,177688,998000
+"1225, Rue des Explorateurs",Saint-Lazare,4,2,2007,13,8525,429000
+"923, Rue des Coliades",Saint-Lazare,3,3,2021,12,5157,448773
+"2958, Chemin Saint-Louis",Saint-Lazare,3,2,2021,10,36974,571442
+"212, Hampshire Road",Beaconsfield,5,4,1959,14,15781,1399000
+"13, Croissant Woodridge",Beaconsfield,5,5,1956,22,14228,1596000
+"140, Avenue Woodland",Beaconsfield,5,4,1975,16,24000,1150000
+"71, York Road",Beaconsfield,5,2,1956,14,24420,1180000
+"75, Avenue Elm, app. 15",Beaconsfield,4,4,1988,9,,580000
+"313, Fleet Drive",Beaconsfield,7,4,1980,18,10472,1350000
+"243, Rue Antoine-Villeray",Beaconsfield,5,6,1989,14,10300,1698000
+"51, Rue Lakeshore",Beaconsfield,4,4,1966,18,10000,1699000
+"64, Claude Street",Beaconsfield,6,6,2019,17,23000,3188000
+"136, Hampshire Road",Beaconsfield,4,2,1957,10,8000,675000
+"200, Rue Chestnut",Beaconsfield,3,2,1954,11,9000,739000
+"230, Rue Sidney-Cunningham",Beaconsfield,6,4,1990,17,7414,1449000
+"516, Avenue des Véroniques",Beaconsfield,6,6,2015,21,12478,3650000
+"510, Avenue des Véroniques",Beaconsfield,5,5,2009,19,12610,2899000
+"104, Thackeray Road",Beaconsfield,4,3,1962,13,14160,949000
+"212, Stonehenge Drive",Beaconsfield,3,2,1957,14,10000,849000
+"312, Avenue Royal",Beaconsfield,4,4,1976,16,8619,950000
+"126, Lincoln Drive",Beaconsfield,4,3,1955,18,8400,749000
+"35, Rue Lakeshore",Beaconsfield,6,6,2016,15,22746,2935000
+"207, Rue Sidney-Cunningham",Beaconsfield,4,6,1998,14,7000,1599999
+"965, Chemin du Bord-du-Lac-Lakeshore",Dorval,6,5,1989,12,12255,1850000
+"416, Avenue Mousseau-Vermette",Dorval,4,3,2011,11,,789000
+"55, Avenue Saint-Charles",Dorval,3,2,1950,13,,975000
+"245, boulevard Strathmore",Dorval,4,3,2021,14,6670,1148000
+"35, Terrasse Bellerive",Dorval,4,4,1997,15,11851,2799000
+"161, Avenue Roy",Dorval,4,3,1961,12,6415,729000
+"301, Avenue George-V",Dorval,3,3,2021,15,4095,1150000
+"15, Avenue Girouard",Dorval,5,5,2000,20,8059,1888000
+"260, Avenue Ducharme",Dorval,3,2,1975,8,15995,1850000
+"540, Rue Avila-Legault",Dorval,3,2,1987,11,4181,495000
+"656, Avenue Westwood",Dorval,4,2,1953,6,4844,499000
+"655, Avenue Monette",Dorval,2,1,1934,5,9750,899000
+"255, Avenue Touzin",Dorval,6,4,1952,17,5780,889000
+"1166, Avenue Pierre-Mallet",Dorval,3,3,1996,13,4319,850000
+"191, Thorncrest Circle",Dorval,6,3,1952,18,5970,799000
+"1020, Chemin du Bord-du-Lac-Lakeshore",Dorval,5,4,1988,15,41232,3500000
+"45, Place Kathleen-Laing",Dorval,5,6,2021,21,10649,4586200
+"263, Avenue Saint-Louis",Dorval,3,1,1953,11,4800,529000
+"680, Avenue Wolseley",Côte-Saint-Luc,3,1,1912,7,2061,599000
+"5909, Rue David-Lewis",Côte-Saint-Luc,4,3,1989,8,1700,799000
+"5552, Avenue Pinedale",Côte-Saint-Luc,4,3,1958,14,4970,1099900
+"5586, Avenue Randall",Côte-Saint-Luc,5,4,1958,13,7200,1598000
+"5704, Avenue Whitehorne",Côte-Saint-Luc,5,3,1958,11,4003,1126000
+"5750, Rue Park Place",Côte-Saint-Luc,6,4,2014,14,7918,2395000
+"5608, Avenue Palmer",Côte-Saint-Luc,4,2,1956,9,4000,838000
+"5774, Avenue Blossom",Côte-Saint-Luc,3,3,1962,9,4088,858000
+"5877, Avenue Kellert",Côte-Saint-Luc,4,5,2013,16,3621,1498000
+"5949, Rue Tommy-Douglas",Côte-Saint-Luc,7,6,2006,25,7166,2500000
+"6826, Chemin Louis-Pasteur",Côte-Saint-Luc,5,4,1988,10,6912,1888888
+"5622, Avenue Alpine",Côte-Saint-Luc,5,3,1956,14,3750,1150000
+"5524, Avenue King-Edward",Côte-Saint-Luc,6,3,1957,12,3648,869000
+"5720, Rue Park Place",Côte-Saint-Luc,5,4,2013,17,5413,2290000
+"5780, Croissant Ilan Ramon",Côte-Saint-Luc,4,4,2004,13,2163,1099000
+"6767, Chemin Louis-Pasteur",Côte-Saint-Luc,3,2,1977,9,1889,488000
+"6061, boulevard Cavendish",Côte-Saint-Luc,5,4,1982,13,2900,799000
+"5566, Avenue Pinedale",Côte-Saint-Luc,5,3,1957,14,4610,1198000
+"33, Rue Sunny Acres",Baie-d'Urfé,4,2,1952,4,20593,950000
+"85, Rue Morgan",Baie-d'Urfé,3,3,1948,11,18339,849000
+"21, Rue Apple Hill",Baie-d'Urfé,5,4,2021,23,15000,2100000
+"117, Rue Churchill",Baie-d'Urfé,3,3,1994,15,3000,649000
+"102, Rue Devon",Baie-d'Urfé,3,1,1956,8,15532,699000
+"91, Rue Devon",Baie-d'Urfé,3,2,1954,8,15000,799900
+"722, Rue Surrey",Baie-d'Urfé,3,1,1955,6,23499,749000
+"113, Rue Elm",Baie-d'Urfé,5,3,1957,18,33323,1380000
+"20756, Rue Gay Cedars",Baie-d'Urfé,3,3,1967,10,15001,1268000
+"53, Rue Lakeview",Baie-d'Urfé,5,4,2020,9,18560,2250000
+"20, Rue Pierre-Trudeau",Dollard-Des Ormeaux,4,4,2002,11,6684,1298000
+"160, Rue Davignon",Dollard-Des Ormeaux,2,1,1970,8,3248,339900
+"1297, Rue Tecumseh",Dollard-Des Ormeaux,6,4,1998,18,6233,1100000
+"217, Rue Dali",Dollard-Des Ormeaux,7,5,2004,19,8396,1895000
+"12, Rue Dephoure",Dollard-Des Ormeaux,3,2,1967,8,6000,625000
+"13, Rue Sunshine",Dollard-Des Ormeaux,4,2,1965,10,4860,499000
+"31, Rue Pasteur",Dollard-Des Ormeaux,5,3,1972,10,6006,624900
+"58, Rue Avondale",Dollard-Des Ormeaux,5,2,1964,14,6095,625000
+"558, Rue Devon",Dollard-Des Ormeaux,5,4,1971,19,7141,725000
+"30, Rue Pinecrest",Dollard-Des Ormeaux,3,2,1961,12,6000,589000
+"91, Rue Sunshine",Dollard-Des Ormeaux,4,2,1964,8,5320,499000
+"147, Rue France",Dollard-Des Ormeaux,3,2,1962,9,6629,600000
+"101, Rue Northview",Dollard-Des Ormeaux,6,5,2000,21,7903,1879000
+"200, Rue Myconos",Dollard-Des Ormeaux,6,4,1987,17,7610,1298000
+"13, Rue Biscaye",Dollard-Des Ormeaux,5,3,1967,11,7150,529000
+"300, Croissant Harrow",Hampstead,5,5,1987,11,9200,3688000
+"480, Rue Dufferin",Hampstead,3,2,1950,7,5340,949000
+"22, Rue Briardale",Hampstead,5,6,1970,14,8580,1836000
+"1, Rue Applewood",Hampstead,5,4,1969,17,7000,2795000
+"33, Rue Finchley",Hampstead,4,3,1935,9,6000,2095000
+"27, Rue Lyncroft",Hampstead,5,4,1964,15,8094,2998000
+"195, Rue Finchley",Hampstead,5,4,1966,10,6831,2499000
+"243, Croissant Netherwood",Hampstead,5,5,1980,14,6025,1939000
+"185, Rue Harland",Hampstead,6,6,1963,20,7200,2998000
+"215, Rue Finchley",Hampstead,5,4,1967,16,6558,1915000
+"5721, Chemin Queen-Mary",Hampstead,5,3,1955,9,6081,1489000
+"5596, Chemin Queen-Mary",Hampstead,5,4,1945,17,11812,1789000
+"33, Rue Béthune",Kirkland,3,2,1984,9,6650,699000
+"11, Rue Monsadel",Kirkland,4,3,1985,12,6750,849000
+"8, Place Massabni",Kirkland,5,3,2000,11,10114,1288000
+"109, Rue Houde",Kirkland,4,2,1975,11,6871,688000
+"26, Rue du Curé-Trottier",Kirkland,4,3,1971,12,6048,669900
+"43, Rue des Lilas",Kirkland,5,4,2001,15,8572,1150000
+"69, Rue Morley Hill",Kirkland,5,4,1981,12,22545,1625000
+"11, Rue Allard",Kirkland,4,4,2000,13,3291,599000
+"17399, Chemin Sainte-Marie",Kirkland,4,3,2009,11,5127,799000
+"13, Rue Lafford",Kirkland,3,4,1992,10,9664,1095000
+"36, Rue de Shediac",Kirkland,5,3,1976,10,6000,849000
+"284, Rue Evans",Kirkland,4,2,1973,12,6629,719000
+"50, Rue Rondeau",Kirkland,6,3,1975,16,7927,889900
+"73, Rue Monsadel",Kirkland,4,4,1998,16,7094,1079000
+"53, Rue Piper",Kirkland,3,2,1971,7,6278,599000
+"2, Rue de Lacey Green",Kirkland,5,4,2002,10,11639,1499000
+"88, Rue Alta-Vista",Kirkland,5,4,1975,16,7473,1195000
+"97, boulevard Kirkland",Kirkland,5,3,1975,15,6606,888000
+"17, Rue Mérineau",Kirkland,4,3,1987,15,6236,799000
+"67, Rue Béthune",Kirkland,5,4,1986,16,12112,1150000
+"11380, Rue De La Gauchetière",Montréal-Est,3,2,1941,12,2730,199900
+"11419, Rue Victoria",Montréal-Est,4,3,2010,14,3087,549900
+"11201, Rue Sainte-Catherine Est",Montréal-Est,2,2,1948,8,4475,289900
+"487, Avenue Lelièvre",Montréal-Est,2,1,1948,7,3552,299000
+"2, Avenue Easton",Montréal-Ouest,5,4,1936,15,16717,1695000
+"2165, Rue Johnson",Montréal (Saint-Laurent),4,2,1956,11,3520,849000
+"19, Rue de Granada",Kirkland,5,4,1975,15,7605,675000
+"7740 - 7742, Rue Serge",Montréal (LaSalle),3,1,1970,7,1494,379000
+"77, Rue Milton",Montréal (Le Plateau-Mont-Royal),5,2,1885,6,1322,1179000
+"123, Avenue Viking",Pointe-Claire,4,2,1960,13,7512,509000
+"9490, Rue Sainte-Claire",Montréal (Mercier/Hochelaga-Maisonneuve),2,1,1962,8,2016,359900
+"5355, Avenue Jeanne-d'Arc",Montréal (Rosemont/La Petite-Patrie),2,1,1910,5,1887,549000
+"21, Surrey Gdns",Westmount,3,3,1951,12,7361,3350000
+"13260, Rue Aragon",Montréal (Pierrefonds-Roxboro),4,2,1969,12,7541,549000
+"11655, Rue Laforest",Montréal (Ahuntsic-Cartierville),4,2,1955,11,4006,749000
+"11650, boulevard de la Rivière-des-Prairies",Montréal (Rivière-des-Prairies/Pointe-aux-Trembles),2,1,1954,5,1954,350000
+"4558, Rue Foster",Montréal (Pierrefonds-Roxboro),3,2,1987,11,4650,595000
+"01284, Rue Charlevoix",Montréal (Le Sud-Ouest),2,2,1884,7,2401,830000
+"3848Z, Rue Monselet",Montréal (Montréal-Nord),3,2,2015,13,1668,589000
+"3970, Avenue Laval",Montréal (Le Plateau-Mont-Royal),5,3,1890,12,1574,1580000
+"6509, Chemin Bruton",Montréal (Ahuntsic-Cartierville),4,4,1929,20,20000,1649000
+"2, Avenue Easton",Montréal-Ouest,5,4,1936,15,16717,1695000
+"463, Avenue Ballantyne Nord",Montréal-Ouest,5,4,1966,13,3215,999000
+"113, Avenue Brock Sud",Montréal-Ouest,5,2,1911,12,4971,1279000
+"11, Avenue Brynmor",Montréal-Ouest,4,5,1958,11,5475,1500000
+"40, Avenue Garden City",Sainte-Anne-de-Bellevue,4,1,1947,11,4294,495000
+"38, Montée Sainte-Marie",Sainte-Anne-de-Bellevue,5,3,1860,11,4832,475000
+"335, Rue Vallée",Sainte-Anne-de-Bellevue,4,2,1997,9,5922,679800
+"22, Rue Saint-Pierre",Sainte-Anne-de-Bellevue,2,2,1925,7,,330000
+"308, Rue Frédéric-Back",Sainte-Anne-de-Bellevue,4,3,2021,17,,739204
+"21206, Rue Euclide-Lavigne",Sainte-Anne-de-Bellevue,5,5,2006,12,19121,2200000
+"107, Rue Meloche",Sainte-Anne-de-Bellevue,3,2,1984,9,6018,450000
+"12, Rue Maple",Sainte-Anne-de-Bellevue,4,3,1870,11,16818,1100000
+"25A, Rue Christie",Sainte-Anne-de-Bellevue,2,1,1941,9,1745,349000
+"401, Rue Frédéric-Back",Sainte-Anne-de-Bellevue,4,3,2021,18,,843574
+"657, Avenue Lansdowne",Westmount,5,4,1924,10,3569,1875000
+"520, Avenue Lansdowne",Westmount,4,4,1915,12,5514,3150000
+"41, Avenue Rosemount",Westmount,5,6,1897,19,8741,5200000
+"3261, Avenue Cedar",Westmount,7,8,1912,28,17010,20000000
+"5, Chemin Belfrage",Westmount,4,4,1925,14,2525,1790000
+"109, Avenue Upper-Bellevue",Westmount,5,6,1952,10,6055,4500000
+"3186, boulevard The Boulevard",Westmount,6,6,1911,22,5063,5995000
+"627, Avenue Lansdowne",Westmount,5,4,1926,8,3450,1995000
+"3773, boulevard The Boulevard",Westmount,4,4,1962,9,6504,2680000
+"15, Lansdowne Ridge",Westmount,5,4,1946,15,5293,3195000
+"24, Chemin Edgehill",Westmount,5,5,1928,10,5135,3995000
+"753, Avenue Lexington",Westmount,6,7,1936,19,16278,5885000
+"68, Chemin Belvedere",Westmount,5,5,1926,12,17540,4498000
+"72, Croissant Belmont",Westmount,7,5,1929,15,11328,6890000
+"4306, Avenue Montrose",Westmount,4,4,1963,18,5479,3250000
+"20480, Rue des Sports",Mirabel,3,2,1994,9,6265,479000
+"14842, Rue des Saules",Mirabel,3,1,2007,8,5542,449900
+"13900, Rue Plouffe",Mirabel,4,2,1990,11,5998,359000
+"17884, Rue Charles",Mirabel,4,2,1958,11,6060,364900
+"18940, Rue Wilfrid-Gascon",Mirabel,2,1,2008,8,5781,469900
+"19840, Place de l'Aviron",Mirabel,3,2,1996,10,4182,273000
+"9240, Rue Yvon-Paiement",Mirabel,3,2,2010,13,7146,549900
+"8735, Rue M.-J.-Drapeau",Mirabel,3,2,2019,10,2573,399900
+"9055, Rue de l'Apothicaire",Mirabel,3,2,2021,11,2925,465000
+"8440, Rue Charles-Huot",Mirabel,3,3,2006,14,8829,724900
+"10120, Rue Armand-Bertrand",Mirabel,3,2,1991,11,6435,339900
+"8962, Rue Pierre-Rodrigue",Mirabel,2,2,2016,6,2016,299000
+"9465, Rue des Outardes",Mirabel,3,1,2008,9,5695,350000
+"3315, Rue Avon",Longueuil ,3,3,2021,13,4800,598000
+"5330, boulevard Westley",Longueuil ,5,2,1951,11,5000,525000
+"1125, Rue Moisan",Longueuil ,4,1,1985,10,3632,425000
+"3431, Rue Laubia",Longueuil ,3,2,2010,11,7324,669000
+"4891, Rue Belmont",Longueuil ,4,3,2021,10,2500,499900
+"3547, Rue Prince-Charles",Longueuil ,4,4,2021,14,2500,549000
+"5414, Avenue Normand",Longueuil ,4,3,1996,14,4526,499000
+"3155, Rue Howard",Longueuil ,6,4,2020,20,2020,1580000
+"3785, Rue Caron",Longueuil ,3,2,2021,13,2810,539000
+"5349 - 5351, Rue Pascal",Longueuil ,4,2,2006,10,5382,669000
+"3355, Rue Latour",Longueuil ,4,2,1977,13,4999,350000
+"3820, Rue Park",Longueuil ,3,2,1956,5,5500,429000
+"3085, boulevard Gareau",Longueuil ,4,2,1989,12,3861,399000
+"5240, Rue Bisaillon",Longueuil ,3,2,1973,8,6797,439000
+"6961, Avenue Spriggs",Longueuil ,2,1,2017,9,4250,499000
+"6100, Avenue Brunet",Longueuil ,4,2,1974,11,5765,469000
+"5208, Avenue Irving",Longueuil ,3,2,1973,9,4000,418000
+"2250, Rue d'York",Longueuil ,4,3,1983,12,4465,519000
+"3955, Rue Hillcrest",Longueuil ,3,2,1997,16,27500,850000
+"4035, Rue de la Légion",Longueuil ,4,2,1978,9,4703,399900
+"1116, boulevard Payer",Longueuil ,3,1,1970,6,4079,320000
+"66, Rue Pendale",Longueuil ,3,2,1964,12,6129,545000
+"637, Rue Bellevue",Longueuil ,5,2,1972,15,5700,459000
+"530, Rue de Springfield",Longueuil ,3,2,1946,12,5880,639000
+"598, Rue Vallières",Longueuil ,4,2,1965,12,5926,449000
+"571, Rue Gaspé",Longueuil ,4,2,1972,9,5158,449000
+"1332, Rue Bellevue",Longueuil ,2,1,1969,7,6830,389000
+"115, Rue Regent",Longueuil ,4,2,1948,11,10725,899000
+"246, Rue Rolland",Longueuil ,4,2,1965,12,5802,599900
+"196, Chemin Saint-Charles",Longueuil ,3,2,1948,10,9393,579000
+"238, Avenue Murray",Longueuil ,3,1,1949,8,4605,345000
+"533, Rue Vallières",Longueuil ,5,3,1965,12,5435,620000
+"561, Rue Louis-Lamarre",Longueuil ,3,2,1989,11,5006,599000
+"1446, Rue des Mésanges",Saint-Bruno-de-Montarville,5,3,1975,10,8827,949000
+"204, Rue Héroux",Saint-Bruno-de-Montarville,3,2,1971,9,3942,388500
+"265, Grand Boulevard Est",Saint-Bruno-de-Montarville,5,3,1920,15,9539,625000
+"53, Grand Boulevard Est",Saint-Bruno-de-Montarville,4,2,1975,13,10389,499999
+"1621, Croissant Pease",Saint-Bruno-de-Montarville,3,2,1997,13,9726,649000
+"180, Rue Boulanger",Saint-Bruno-de-Montarville,4,2,1968,12,8500,599000
+"1482, Rue François-P.-Bruneau",Saint-Bruno-de-Montarville,5,6,2004,19,22367,2588000
+"390, Rue Gouin",Saint-Bruno-de-Montarville,3,3,1991,14,6745,599500
+"1860, Rue des Érables",Saint-Bruno-de-Montarville,4,3,1971,14,13995,949000
+"1640, Rue de Montpellier",Saint-Bruno-de-Montarville,5,4,1971,19,13212,2675000
+"405, Rue Hillcrest",Saint-Bruno-de-Montarville,4,3,1967,17,8717,859000
+"924, Rue Gaboury",Saint-Bruno-de-Montarville,4,2,1978,11,7000,769000
+"924, Rue Angers",Saint-Bruno-de-Montarville,4,2,1973,12,6300,492000
+"987, Rue Pelletier",Saint-Bruno-de-Montarville,4,2,1972,12,6000,525000
+"380, Rue Panet",Saint-Bruno-de-Montarville,4,2,1967,12,6090,579000
+"4270, Rue de l'Ancolie",Saint-Bruno-de-Montarville,5,3,2001,16,6997,949900
+"37, Rue Frontenac Est",Saint-Bruno-de-Montarville,5,2,1973,15,6298,519000
+"1587, Rue des Mésanges",Saint-Bruno-de-Montarville,3,3,2015,15,11043,1599000
+"410, Chemin De La Rabastalière Est",Saint-Bruno-de-Montarville,4,3,2007,11,7804,1149000
+"3868, Rue Jacques-Beauchamp",Boisbriand,3,2,1994,10,5413,439000
+"649, Rue Papineau",Boisbriand,3,2,2013,12,2971,389900
+"5, 3e Avenue",Boisbriand,5,1,1980,10,5099,365000
+"4620, Rue Jean-Paul-Lemieux",Boisbriand,4,2,1994,10,6510,385000
+"1093, Rue Chablis",Boisbriand,5,2,1988,11,6700,399900
+"16, Terrasse Robert",Boisbriand,3,4,2021,13,5000,648450
+"9, Rue Collin",Boisbriand,2,3,1990,7,7214,599900
+"286, Avenue de Colombier",Boisbriand,3,2,1981,9,4691,379000
+"3597, Carré Marguerite-Bourgeoys",Boisbriand,3,2,1993,10,1602,339900
+"524, Rue Courval",Boisbriand,5,2,1987,12,5000,399500
+"243, Place Courville",Boisbriand,5,2,1971,14,8221,449900
+"184Z - 186Z, Rue Diane-Juster",Boisbriand,3,2,1997,8,11919,599900
+"270, Chemin de la Côte Sud",Boisbriand,4,3,1972,14,29831,495000
+"196, Chemin de la Grande-Côte",Boisbriand,5,6,1995,13,72599,2998000
+"34, Avenue Provencher",Boisbriand,4,1,1972,9,7200,374900
+"3232, Rue Bolduc",Boisbriand,2,2,1986,9,5931,435000
+"71, Rue De Bleury",Rosemère,5,5,2001,17,15679,3250000
+"545, Rue Northcote",Rosemère,3,2,2015,10,3000,575000
+"236, Rue Florian",Rosemère,2,1,1955,8,5600,349000
+"299, Rue Woodlawn",Rosemère,5,2,1976,13,7738,499900
+"346, Rue Pine",Rosemère,7,4,1957,18,13080,719900
+"566, Rue des Frênes",Rosemère,4,4,1990,15,11597,675000
+"93, Rue De Bleury",Rosemère,6,7,2012,18,11569,3400000
+"426, Rue d'Orléans",Rosemère,5,2,1977,11,10213,649000
+"352, Rue Champlain",Rosemère,5,4,1978,20,10999,1100000
+"327, Rue Maplewood",Rosemère,3,1,1981,7,10100,349000
+"414, Rue du Colibri",Rosemère,4,3,2002,15,10578,679900
+"133, Rue du Jardin-des-Tourelles",Rosemère,2,2,1993,10,5661,399900
+"122, Rue des Villas",Rosemère,2,2,2003,9,5148,599900
+"600, Rue des Charentes",Rosemère,5,4,2000,12,10548,899000
+"380, Rue du Cheminot",Rosemère,4,2,1986,9,8632,649000
+"688, Rue des Vignobles",Rosemère,4,4,2002,15,7508,849000
+"397, Rue du Colibri",Rosemère,4,2,2000,12,7579,589900
+"166, Rue Bellerive",Rosemère,4,3,1975,13,8575,699000
+"324, Rue Coolbrook",Rosemère,5,3,1977,13,15689,729000
+"615, Rue de l'Ermitage",Rosemère,6,4,2011,16,7500,1250000
+"135Y - 135Z, Rue Blainville Est",Sainte-Thérèse,4,1,1940,10,6454,425000
+"587, Rue Magnan",Sainte-Thérèse,2,3,1981,12,4043,450000
+"88, Rue Valiquette",Sainte-Thérèse,3,2,1975,11,4858,329000
+"112, Rue Dumontier",Sainte-Thérèse,3,3,1974,12,5775,369900
+"15, Rue Lecompte",Sainte-Thérèse,2,3,1942,10,4160,349000
+"24, Rue Louis-Hébert",Sainte-Thérèse,5,2,1951,11,6000,369900
+"988, Rue Gendron",Sainte-Thérèse,4,4,1988,15,7560,675000
+"5, Rue Vaillancourt",Sainte-Thérèse,3,3,1958,11,10824,579000
+"17, Rue du Ravin",Sainte-Thérèse,4,2,1967,11,27564,649000
+"129, Rue Régimbald",Sainte-Thérèse,3,3,1976,12,4000,349900
+"102, Rue Leduc",Sainte-Thérèse,4,2,1955,11,4300,299900
+"165, Rue Blainville Ouest",Sainte-Thérèse,2,2,1988,8,9359,725000
+"72, Rue Matte",Sainte-Thérèse,3,1,1948,7,5208,279900
+"590, Rue Magnan",Sainte-Thérèse,4,2,1972,10,7242,324000
+"6, Rue de Charmes",Lorraine,4,2,1978,12,7687,579000
+"55, Avenue de Sion",Lorraine,5,2,1974,14,8500,459000
+"51, Rue de Louvigny",Lorraine,5,3,1966,15,9150,440000
+"17, Avenue de Baccarat",Lorraine,4,2,1972,12,3667,289900
+"123, Chemin d'Aigremont",Lorraine,3,3,1996,12,7200,599000
+"31, Chemin de Hombourg",Lorraine,5,7,1997,20,27258,2475000
+"142, boulevard du Val-d'Ajol",Lorraine,3,4,2009,16,14606,1295000
+"18, Chemin de Saverne",Lorraine,4,2,1983,12,7441,429900
+"35, Avenue de Neufchâteau",Lorraine,5,3,1963,10,8644,499000
+"4, Place de Dabo",Lorraine,4,4,1986,10,15600,1198000
+"28, Chemin de Saverne",Lorraine,4,3,1964,8,6997,469900
+"5, Place d'Haguenau",Lorraine,5,4,2010,19,11335,1495000
+"13, Place de Mortagne",Lorraine,4,3,1993,15,5968,649000
+"14, Rue de Louvigny",Lorraine,4,3,1962,12,8914,449000
+"45, Avenue de Morhange",Lorraine,4,2,1966,12,7055,549000
+"115, boulevard De Gaulle",Lorraine,4,3,1980,15,12596,674900
+"18, Avenue de Marsal",Lorraine,3,2,1976,11,6996,499000
+"8, Rue de Nogent",Lorraine,4,4,1990,22,9615,1248000
+"59, boulevard René-D'Anjou",Lorraine,5,3,2005,13,8008,995000
+"12, Rue de Nogent",Lorraine,4,2,1988,9,7409,699000
+"29, 44e Avenue",Bois-des-Filion,3,1,2006,12,5000,399900
+"9, 37e Avenue",Bois-des-Filion,3,1,1958,10,6000,299000
+"304, Place du Coteau",Bois-des-Filion,3,3,1978,14,5997,545000
+"8, 50e Avenue",Bois-des-Filion,6,3,1963,15,6750,549000
+"314, Rue Pierre-Coté",Bois-des-Filion,4,1,1988,9,4000,369000
+"44, 43e Avenue",Bois-des-Filion,4,1,,11,4594,274000
+"4, 56e Avenue",Bois-des-Filion,3,2,1997,8,6500,425000
+"775, Avenue des Frênes",Bois-des-Filion,6,2,2002,12,8707,449100
+"399, Rue Joseph-Germain",Bois-des-Filion,4,2,1961,12,8178,409900
+"259, Rue Adrien-Éthier",Bois-des-Filion,3,1,1990,8,4252,324000
+"363, Rue Carmelle",Bois-des-Filion,3,2,1978,13,6500,350000
+"30 - 30A, 38e Avenue",Bois-des-Filion,2,1,1947,5,6199,329900
+"66, Place du Havre",Bois-des-Filion,4,2,2002,11,5811,588000
+"398, Rue Joseph-Germain",Bois-des-Filion,2,2,1959,9,5980,249900
+"297, Rue Pierre-Coté",Bois-des-Filion,3,2,1991,8,5034,379900
+"426, Rue Goyer",Bois-des-Filion,3,2,1999,9,4937,595000
+"50, Rue Guy-du-Lac",Sainte-Anne-des-Plaines,2,1,1990,6,26030,329900
+"374, 5e Avenue",Sainte-Anne-des-Plaines,3,3,1969,16,65611,925000
+"175, Rue Coursol",Sainte-Anne-des-Plaines,4,1,1985,10,4090,264900
+"38, Rue Robert",Sainte-Anne-des-Plaines,2,1,1985,6,20040,199900
+"113, Rue Mathias",Sainte-Anne-des-Plaines,4,3,1978,7,14210,899000
+"69, Rue des Frênes",Sainte-Anne-des-Plaines,3,3,2020,13,3067,331345
+"405, Montée Morel",Sainte-Anne-des-Plaines,2,2,2008,10,32375,899000
+"519, Rue du Sentier",Sainte-Anne-des-Plaines,4,3,2005,11,8724,249000
+"148, Rue Saint-Isidore",Sainte-Anne-des-Plaines,3,2,1884,12,4039,189900
+"486, Rue des Cèdres",Sainte-Anne-des-Plaines,3,2,1990,11,5000,275000
+"279, Rue Saint-Antoine",Sainte-Anne-des-Plaines,4,3,2006,14,6187,449900
+"200, Chemin de la Plaine",Sainte-Anne-des-Plaines,4,2,2005,10,25692,599000
+"535, Rue Beaudry",Sainte-Anne-des-Plaines,3,2,1991,10,4843,349900
+"531, Rue Beaudry",Sainte-Anne-des-Plaines,3,2,1991,9,4843,325000
+"186, Rue Joly",Sainte-Anne-des-Plaines,3,2,1978,9,3000,225000
+"156, Rue Joly",Sainte-Anne-des-Plaines,3,2,1979,9,3000,289000
+"273, Montée Gagnon",Sainte-Anne-des-Plaines,2,2,1993,10,37733,599900
+"421, Rue Séraphin-Bouc",Sainte-Anne-des-Plaines,3,2,2018,11,3666,314900
+"272, boulevard de Mortagne",Boucherville,4,2,1970,,6533,474900
+"734, Rue des Châtaigniers",Boucherville,5,4,2005,,56294,2485000
+"614, Rue Jean-Baptiste-Bau",Boucherville,3,2,1964,,6436,469900
+"1285, Rue de Rouen",Boucherville,4,3,1990,12,7749,849000
+"239, boulevard de Mortagne",Boucherville,2,1,1968,21,10011,439900
+"57, Rue De Muy",Boucherville,4,3,2021,10,5000,699000
+"17, Rue Birtz",Boucherville,3,3,2021,16,7215,869750
+"624, Rue Françoise-Loisel",Boucherville,4,2,1962,10,6741,479000
+"690, Rue des Abbés-Primeau",Boucherville,3,2,1957,9,6000,369900
+"16, Rue Marguerite-Bourgeoys",Boucherville,3,4,1978,15,10085,929000
+"692, Rue des Châtaigniers",Boucherville,6,8,2008,16,60458,6920000
+"678, Rue du Bosquet",Boucherville,3,5,2007,11,23151,1798000
+"192, Rue Thomas-Chapais",Boucherville,4,3,1981,19,6015,569000
+"300, Rue d'Arromanches",Boucherville,5,3,1991,24,7210,799000
+"710, Rue Charles-Lussier",Boucherville,4,2,1957,27,6000,479000
+"1229, Rue de Lisieux",Boucherville,5,4,2001,15,10517,1699000
+"76, Rue De Varennes Nord",Boucherville,6,4,1961,14,12160,589000
+"468, Rue de Gascogne",Boucherville,5,4,2009,12,6821,1095000
+"392, Rue Louis-H.-Latour",Boucherville,6,2,1966,22,7660,419000
+"22, Rue Jacques-Racicot",Boucherville,3,2,1955,21,6999,499999
+"105, Rue Richard",Laval ,4,2,1975,16,4728,299000
+"1290, 41e Avenue",Laval (Fabreville),3,2,1958,14,6398,299000
+"36, Rue Lortie",Laval ,4,2,1945,11,3175,299995
+"314, Rue Antoine-Plamondon",Laval ,3,2,1999,11,3013,488000
+"1166, Rue Pierre-Quenneville",Laval ,4,3,2000,7,4537,549000
+"2344, Rue de Montségur",Laval ,2,2,2003,12,3016,599000
+"3602, boulevard Lévesque Est",Laval (Saint-Vincent-de-Paul),3,3,2000,9,5365,945000
+"460, Rue Hochelaga",Laval (Fabreville),4,1,1972,7,4499,374900
+"1170, Croissant Vendôme",Laval (Duvernay),3,2,1963,10,5888,590000
+Rue Gascon,Laval (Saint-François),3,2,2021,8,2527,419000
+"5348, Avenue Clarendon",Laval ,3,3,1987,8,2803,489000
+"4171, Rue Sacha",Laval (Fabreville),4,2,2008,8,4101,649900
+"3088, Rue Edmond-Rostand",Laval ,3,3,1999,12,3900,699000
+"2965, boulevard des Mille-Îles",Laval (Saint-François),4,5,2014,10,21165,1695000
+"6820, Rue du Chardonneret",Laval ,4,2,1977,10,8755,499000
+"738, Rue Olivar-Asselin",Laval ,4,2,1956,17,4403,499000
+"1396, Rue Vauquelin",Laval (Fabreville),4,2,1955,14,6812,325000
+"7630, boulevard des Mille-Îles",Laval (Saint-François),3,2,1708,6,51349,1090000
+"4613, Avenue Eliot",Laval ,3,2,1989,9,2996,439000
+"1630, Croissant Surprenant",Brossard,5,3,1985,18,6496,895000
+"5540, Rue Boileau",Brossard,4,3,1972,13,5444,525000
+"8130, Rue Nelligan",Brossard,3,2,1978,10,6000,596000
+"6675, Place Beaulac",Brossard,2,3,1978,11,2977,379900
+"6120, Rue Brodeur",Brossard,4,3,1970,9,5143,475000
+"8045, Rue Nelligan",Brossard,4,2,1977,12,6000,585000
+"5615, Rue Corneille",Brossard,3,3,2010,11,3038,648000
+"6045, Avenue Platon",Brossard,4,2,1971,8,5320,479000
+"8995, boulevard Rivard",Brossard,5,4,1985,22,12152,1900000
+"4180, Rue de l'Oural",Brossard,4,4,2006,12,4682,938000
+"8345, Rue Racine",Brossard,5,4,1981,14,6300,965000
+"1667, Rue Agnès",Brossard,5,4,2021,18,5389,829000
+"7520, Rue Trinidad",Brossard,4,1,1968,10,6000,498800
+"3445, Avenue Bienvenue",Brossard,4,2,1966,11,4941,600000
+"8868, Place Rodier",Brossard,5,4,2021,14,4676,1199000
+"1810, Rue Albert",Brossard,2,1,1953,8,4004,399000
+"1180, Rue Strauss",Brossard,3,2,1982,12,6004,699000
+"8000, boulevard Pelletier",Brossard,4,3,1976,10,6929,810000
+"7200, Rue Marisa",Brossard,3,2,1968,11,5700,549000
